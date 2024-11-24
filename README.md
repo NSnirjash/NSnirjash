@@ -4,7 +4,7 @@
 <h1 align="center">I'm Md. Nasif Shahriar (Nirjash)</h1> 
 <h4 align="center">Programming Lover and Learner</h4>
 <div><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NSnirjash17&label=Profile%20views&color=0e75b6&style=flat" alt="NSnirjash" /> </p></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NSnirjash&label=Profile%20views&color=0e75b6&style=flat" alt="NSnirjash" /> </p></div>
 
 <img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
 
@@ -135,11 +135,11 @@
 
 </p> -->
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrahmed17) 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahmed17&show_icons=true&locale=en&layout=compact" alt="Md. Raju Ahmed"/>
- &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Raju Ahmed" /></p>  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='NSnirjash' height='40'>](https://github.com/NSnirjash) 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NSnirjash&show_icons=true&locale=en&layout=compact" alt="Md. Nasif Shahriar"/>
+ &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Nasif Shahriar" /></p>  
          
- &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mrahmed17)
+ &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=NSnirjash)
 <!-- &nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mrahmed17) -->
 
 
