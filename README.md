@@ -137,7 +137,7 @@
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='NSnirjash' height='40'>](https://github.com/NSnirjash) 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NSnirjash&show_icons=true&locale=en&layout=compact" alt="Md. Nasif Shahriar"/>
- &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Nasif Shahriar" /></p>  
+ &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=NSnirjash&show_icons=true&locale=en" alt="Md. Nasif Shahriar" /></p>  
          
  &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=NSnirjash)
 
