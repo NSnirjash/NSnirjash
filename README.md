@@ -143,7 +143,7 @@
 
  <h2>Activity Graph</h2>
 
-![Nasif's Graph](https://github-readme-activity-graph.vercel.app/graph?username=<h2>Activity Graph</h2>
+![Nasif's Graph](https://github-readme-activity-graph.vercel.app/graph?NSnirjash=<h2>Activity Graph</h2>
 
 ![Nasif's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NSnirjash&custom_title=Nasif's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
