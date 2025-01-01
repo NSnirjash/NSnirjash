@@ -151,11 +151,11 @@
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
-![GitHub followers](https://img.shields.io/github/followers/Nasif?style=flat&logo=github&color=05122A&labelColor=05122A)
-![Profile Views](https://komarev.com/ghpvc/?username=Nasif&style=flat&labelolor=05122A&color=05122A)
+![GitHub followers](https://img.shields.io/github/followers/NSnirjash?style=flat&logo=github&color=05122A&labelColor=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=NSnirjash&style=flat&labelolor=05122A&color=05122A)
 
 
-[![dino](https://github.com/user-attachments/assets/a7cf5488-0ab2-4c39-af5c-48deac90f785)](https://github.com/NayamulNirob)&custom_title=Nayamul's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+[![dino](https://github.com/user-attachments/assets/a7cf5488-0ab2-4c39-af5c-48deac90f785)](https://github.com/NSnirjash)&custom_title=NSnirjash's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -165,5 +165,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NayamulNirob&style=flat&labelolor=05122A&color=05122A)
 
 
-[![dino](https://github.com/user-attachments/assets/a7cf5488-0ab2-4c39-af5c-48deac90f785)](https://github.com/NayamulNirob)
+[![dino](https://github.com/user-attachments/assets/a7cf5488-0ab2-4c39-af5c-48deac90f785)](https://github.com/NSnirjash)
 
